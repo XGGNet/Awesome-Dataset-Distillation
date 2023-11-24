@@ -193,6 +193,7 @@ If you find this project useful for your research, please use the following BibT
 + [Backdoor Attacks Against Dataset Distillation](https://arxiv.org/abs/2301.01197) (Yugeng Liu et al., NDSS 2023) [:octocat:](https://github.com/liuyugeng/baadd) [:book:](./citations/liu2023backdoor.txt)
 + [Differentially Private Kernel Inducing Points (DP-KIP) for Privacy-preserving Data Distillation](https://arxiv.org/abs/2301.13389) (Margarita Vinaroz et al., 2023) [:book:](./citations/vinaroz2023dpkip.txt)
 + [Dataset Distillation Fixes Dataset Reconstruction Attacks](https://arxiv.org/abs/2302.01428) (Noel Loo et al., 2023) [:octocat:](https://github.com/yolky/distillation_fixes_reconstruction) [:book:](./citations/loo2023attack.txt)
++ [Privacy-Preserving Learning via Data and Knowledge Distillation](https://ieeexplore.ieee.org/abstract/document/10302547) (Fahim Faisal et al., DSAA 2023) [:book:](./citations/fahim2023privacy.txt)
 
 <a name="medical" />
 
